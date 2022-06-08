@@ -86,6 +86,7 @@ python3 -m bot
 - copy - Copy GDrive Files
 - revoke - Revoke GDrive Account
 - del - Delete GDrive Files
+- ytdl - youtube video links (not playlist)
 ```
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
